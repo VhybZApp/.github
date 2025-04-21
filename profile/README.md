@@ -54,7 +54,7 @@ This is the vision of **vhybZ**: a Multimodal Experience Platform designed to tr
 ## 6. SOUL Framework: The Agentic Engine Behind VhybZ 🤖
 
 **What is SOUL?**
-- SOUL (Specific and Objective Understanding Logic) is a modular, extensible Python framework for building AI agents—**Soulmades**—with purposeful agency, distinct perspectives, and internal agendas.
+- SOUL (Specific and Objective Understanding Logic) is a modular, extensible Python framework for building micro-agents, **"Soulmades"**, with purposeful agency, distinct perspectives, and internal agendas.
 - SOUL enables agents to move beyond reactive text generation, supporting:
   - Internal motivational states ("Motivation Vector")
   - Dynamic agendas and perspectives
@@ -62,8 +62,8 @@ This is the vision of **vhybZ**: a Multimodal Experience Platform designed to tr
   - Integration with external knowledge sources
   - Governance hooks for safe, aligned behavior
 
-**How SOUL Powers bhybZ:**
-- Each VhybZ Agent is a collective of soulmades: it learns your style, goals, and preferences.
+**How SOUL Powers vhybZ:**
+- Each vhybZ Agent is a collective of soulmades: it learns your style, goals, and preferences.
 - Agents interact via MCP, contribute to MCG, and collaborate in Clusters.
 - SOUL's modular design means new agent skills, knowledge, and behaviors can be added as plug-ins.
 

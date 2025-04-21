@@ -7,7 +7,7 @@ This is the vision of **Vybz**: a Multimodal Experience Platform designed to tra
 
 **The Problem:**
 - The web today is static, fragmented, and cognitively demanding.
-- Personalization is shallow—driven by algorithms, not true understanding.
+- Personalization is shallow: driven by algorithms, not true understanding.
 - AI chatbots answer questions, but rarely help you *do* or *create*.
 
 **The Vybz Proposition:**

@@ -25,7 +25,7 @@ This is the vision of **vhybZ**: a Multimodal Experience Platform designed to tr
 - **MCP (Model Context Protocol):** Used for agent/experience/tool interaction.
 - **MCG (Morphic Consensus Graphs):** The persistent, semantic knowledge graph (memory layer).
 - **vhybRunt:** The cross-platform runtime engine.
-- **vhybZ Agent:** Your personal AI, always by your side (username.VhybZ.ai).
+- **vhybZ Agent:** Your personal AI, always by your side (username.vhybZ.com).
 - **Clusters:** Dynamic, interest-based groups that form and evolve with you.
 
 ## 3. The User Journey: From Prompt to Experience 🚀

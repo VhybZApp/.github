@@ -24,7 +24,7 @@ This is the vision of **VhybZ**: a Multimodal Experience Platform designed to tr
 - **Lattice:** The backend—swarm intelligence for storage, compute, and communication.
 - **MCP (Model Context Protocol):** Used for agent/experience/tool interaction.
 - **MCG (Morphic Consensus Graphs):** The persistent, semantic knowledge graph (memory layer).
-- **Vybrunt:** The cross-platform runtime engine.
+- **Vhybrunt:** The cross-platform runtime engine.
 - **VhybZ Agent:** Your personal AI, always by your side (username.VhybZ.ai).
 - **Clusters:** Dynamic, interest-based groups that form and evolve with you.
 
@@ -63,7 +63,7 @@ This is the vision of **VhybZ**: a Multimodal Experience Platform designed to tr
   - Governance hooks for safe, aligned behavior
 
 **How SOUL Powers VhybZ:**
-- Each VhybZ Agent is a Soulmade: it learns your style, goals, and preferences.
+- Each VhybZ Agent is a collective of soulmades: it learns your style, goals, and preferences.
 - Agents interact via MCP, contribute to MCG, and collaborate in Clusters.
 - SOUL's modular design means new agent skills, knowledge, and behaviors can be added as plug-ins.
 

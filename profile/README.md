@@ -45,8 +45,8 @@ This is the vision of **vhybZ**: a Multimodal Experience Platform designed to tr
 - Discovery through remix lineage, not algorithmic feeds.
 - Your agent identity (username.vhybZ.com) is your creative portfolio.
 
-## 5. The Knowledge Layer: Morphic Consensus Graphs (MCG) 🧠
-- Every prompt, remix, or creative step becomes a node in the MCG.
+## 5. The Knowledge Layer: Memory Lineage Graph (MCG) 🧠
+- Every prompt, remix, or creative step becomes a node in the MLG.
 - Nodes are vector-embedded, richly attributed, and linked by remix/provenance.
 - Shapley values ensure fair attribution for collaborative work.
 - Visualize and explore the evolving knowledge network.
@@ -64,7 +64,7 @@ This is the vision of **vhybZ**: a Multimodal Experience Platform designed to tr
 
 **How SOUL Powers vhybZ:**
 - Each vhybZ Agent is a collective of soulmades: it learns your style, goals, and preferences.
-- Agents interact via MCP, contribute to MCG, and collaborate in Clusters.
+- Agents interact via MCP, contribute to MLG, and collaborate in Clusters.
 - SOUL's modular design means new agent skills, knowledge, and behaviors can be added as plug-ins.
 
 **Example:**
@@ -73,9 +73,9 @@ This is the vision of **vhybZ**: a Multimodal Experience Platform designed to tr
 ## 7. Architecture: How It All Fits Together 🏗️
 
 - **Frontend:** vhybZ app (Android: chat head overlay; iOS: standalone browser)
-- **Runtime:** Vybrunt engine renders experiences and mediates input/output.
-- **Agents:** Powered by SOUL, each user has a unique, evolving AI.
-- **Backend:** Lattice (decentralized nodes), MCP (protocol), MCG (knowledge graph)
+- **Runtime:** vhybRrunt engine renders experiences and mediates input/output.
+- **Agents:** Powered by SOUL, each user have unique, evolving operators.
+- **Backend:** Lattice (decentralized nodes), MCP (protocol), MLG (knowledge graph)
 - **Commons:** All experiences, remixes, and knowledge fragments are stored, attributed, and discoverable.
 
 ## 8. Why This Matters: The Web, Reimagined ✨
